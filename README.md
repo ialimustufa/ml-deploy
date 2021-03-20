@@ -1,2 +1,3 @@
-# ml-deploy
-Deploy your Machine Learning app using Heroku 
+# Deploy your Machine Learning app using Heroku
+
+Using Simple steps.
